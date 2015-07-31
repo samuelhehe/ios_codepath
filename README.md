@@ -1,6 +1,6 @@
 # CodePath iOS App
 
-![Feed](http://i.imgur.com/umLDXCd.gif)
+![Login](http://i.imgur.com/1xy7I3n.gif)
 
 
 
