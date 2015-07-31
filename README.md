@@ -6,5 +6,23 @@ This app is intended for prospective students, current students, and alumni of a
 
 Detailed mocks are [here](https://www.dropbox.com/sh/yb9a968nef2z8fi/AABmZEH6Ys_glxwN8qgFz5hZa?dl=0).
 
+## Schema
+
+See the [schema](schema.md) file.
+
+## View Controllers
+
+These are the primary view controllers:
+
+- CourseViewController
+- LoginViewController
+- EventViewController
+- CourseOverviewViewController (Jules)
+- FeedViewController (Dairien)
+- ForgotCheckinViewController
+- RatingViewController
+- ClassmatesViewController (Nan)
+- ProfileViewController (Jules)
+
 
 
