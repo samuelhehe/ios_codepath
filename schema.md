@@ -1,22 +1,22 @@
-User
+## User
    - Id
    - Name
    - Employer Name
    - Github Username
    - Email
 
-Feed
+## Feed
    - Id
    - Event Id
    - Cohort Id
 
-Event
+## Event
    - Id
    - Type, Workshop/Social/Demo Day
    - Meetup Id
    - Date
 
-Course
+## Course
    - Id
    - Name, iOS for Designers
    - Tagline
@@ -24,32 +24,32 @@ Course
    - # of sessions
    - Duration, 2 hours
 
-Topic
+## Topic
    - Id
    - Course Id
    - Title
    - Description
    - Images
 
-Cohort
+## Cohort
    - Id
    - Course Id
    - Start Date
    - Days, Mondays and Wednesdays
    - Location
 
-Course Record
+## Course Record
    - User Id
    - Cohort Id
 
-Checkins
+## Checkins
    - User Id
    - Type, Present/Absent
    - Absence excuse
    - Cohort Id
    - Date
 
-Ratings
+## Ratings
    - User Id
    - Cohort Id
    - Topic Id
